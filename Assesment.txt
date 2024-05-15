@@ -9,7 +9,8 @@ answer: git merge will help to combine the changes from two or more branches int
         it lets you take independent lines of development created by git branch and integrate them into a single branch 
 
 nene explain git diff
-answer:
+answer: git diff is used to see the change or difference between different states in your git repository.
+used : git diff <commit> git diff
 
 frank explain git log --all
 answer:

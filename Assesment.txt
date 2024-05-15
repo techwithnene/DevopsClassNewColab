@@ -5,7 +5,8 @@ kalu explain git rebase in the space below
 anwser:
 
 ade explain git merge
-answer:
+answer: git merge will help to combine the changes from two or more branches into a single branches
+        it lets you take independent lines of development created by git branch and integrate them into a single branch 
 
 nene explain git diff
 answer:

@@ -14,7 +14,7 @@ frank explain git log --all
 answer:
 
 henry explain git checkout
-answer: 
+answer:Git checkout serves different purposes depending on the operations your assigned to but its main use is to switch from different branches or to restore files to its original state.  
 
 nicholas explain git commit
 answer: 

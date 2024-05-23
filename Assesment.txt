@@ -12,7 +12,7 @@ nene explain git diff
 answer:
 
 frank explain git log --all
-answer: git long --all is used to display the commit history for all branches in your repository. "git long" is the base command for viewing the commit history in a Git repository."--all" this option tells git to show the commit history for all references (branches,tags
+answer: git log --all is used to display the commit history for all branches in your repository. "git long" is the base command for viewing the commit history in a Git repository."--all" this option tells git to show the commit history for all references (branches,tags
  etc),not just the current branch you are on.
 
 henry explain git checkout

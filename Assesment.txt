@@ -9,7 +9,8 @@ answer: git merge will help to combine the changes from two or more branches int
         it lets you take independent lines of development created by git branch and integrate them into a single branch 
 
 nene explain git diff
-answer:
+answer: git diff is used to see the changes between two commits, stages 
+ used git diff <commit1> <commit2>
 
 frank explain git log --all
 answer: git log --all is used to display the commit history for all branches in your repository. "git long" is the base command for viewing the commit history in a Git repository."--all" this option tells git to show the commit history for all references (branches,tags

@@ -2,7 +2,7 @@ Assesment will show up here soon...
 # questions: expain and show how to use the code you expplained 
 
 kalu explain git rebase in the space below
-anwser:
+anwser: git rebase is a command that allows you to move or combine a sequence of commits to a new base commit. It is  used to keep a feature branch up to date with changes from the main branch or to clean up commit history before merging. for example Updating a feature branch with changes from the main branch:git checkout feature-branch, git fetch origin, git rebase origin/main (This re-applies your feature-branch commits on top of the latest commits from main.)
 
 ade explain git merge
 answer: git merge will help to combine the changes from two or more branches into a single branches

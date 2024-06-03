@@ -22,5 +22,6 @@ answer:Git checkout serves different purposes depending on the operations your a
 nicholas explain git commit
 answer: 
 
+nene@: git init : to initialise a directory to a git repository, to create an empty repository 
 
 
